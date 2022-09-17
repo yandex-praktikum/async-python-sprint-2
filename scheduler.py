@@ -7,3 +7,9 @@ class Scheduler:
 
     def run(self):
         pass
+
+    def restart(self):
+        pass
+
+    def stop(self):
+        pass
