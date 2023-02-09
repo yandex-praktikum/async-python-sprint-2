@@ -48,5 +48,5 @@
 4. Используйте примитивы синхронизации, например, [Timer](https://docs.python.org/3/library/threading.html#timer-objects) или [Condition](https://docs.python.org/3/library/threading.html#condition-objects).
 5. По возможности, решение должно полностью строиться на использовании корутин.
 
-Схематично сервис представлен на [диаграмме](schema.png){target="_blank"}.
+Схематично сервис представлен на [диаграмме](schema.png).
 ![image](schema.png)
